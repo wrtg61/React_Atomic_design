@@ -28,6 +28,6 @@
 -NStatement "RemainedV", "totalV"
 (총 지출 목록 자료)
 
-4.Template & page
+4. Template & page
 Rtemp "inputVaule", "usedValue", "NumericalStatment"
 (레이아웃의 형태 상단과 하단으로 구성)
