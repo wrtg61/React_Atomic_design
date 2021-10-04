@@ -33,4 +33,4 @@
 
 4. Template & page
 Pages "Receipt"
-(레이아웃의 형 구성)
+(레이아웃의 형태 구성)
