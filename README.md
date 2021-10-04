@@ -26,12 +26,11 @@
 -Form "kind", "value", "option"
 (지출목록, 종류에 따라 지출 내역을 나타낸다.)
 -List
+(지출목록 리스트)
 -Footer
+(총 지출 목록 자료를 나타낸다.)
 
-
--NStatement "Totalcount", "totalV"
-(총 지출 목록 자료)
 
 4. Template & page
-Rtemp "inputVaule", "TextBox", "NumericalStatment"
-(레이아웃의 형태 상단과 하단으로 구성)
+Pages "Receipt"
+(레이아웃의 형 구성)
